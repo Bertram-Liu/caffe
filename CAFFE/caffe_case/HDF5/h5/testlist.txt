@@ -1,1 +1,0 @@
-/home/bertram-liu/PycharmProjects/study_ai/AI/CAFFE/代码/test0.h5
