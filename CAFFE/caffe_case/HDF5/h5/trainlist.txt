@@ -1,0 +1,2 @@
+/home/bertram-liu/PycharmProjects/study_ai/AI/CAFFE/代码/train0.h5
+/home/bertram-liu/PycharmProjects/study_ai/AI/CAFFE/代码/train1.h5
